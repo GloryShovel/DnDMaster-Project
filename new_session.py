@@ -6,7 +6,9 @@ def placeholder():
 
 
 class NewSession(tk.Frame):
+
     def __init__(self, parent, controller):
+        tk.Frame.__init__(self, parent)
         # Margins XD
         tk.Label(self, text="  ").grid(row=0, column=0)
         tk.Label(self, text="  ").grid(row=10, column=10)

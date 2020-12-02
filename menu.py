@@ -8,7 +8,9 @@ from os.path import isfile, join
 
 
 class Menu(tk.Frame):
+
     def __init__(self, parent, controller):
+        tk.Frame.__init__(self, parent)
 
         # getting window size
         window_size = [self.winfo_screenwidth(), self.winfo_screenheight()]

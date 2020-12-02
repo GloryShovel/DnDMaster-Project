@@ -18,12 +18,12 @@ class TkinterApp(tk.Tk):
 
         self.frames = {}
 
-        for F in (menu, new_session):
+        for F in (menu.Menu, new_session.NewSession):
             frame = F(container, self)
 
             self.frames[F] = frame
 
-            frame.grid(row=0, column=0, sticky="nsew")
+            frame.grid(row=0, column=0, sticky="new")
 
         self.show_frame(menu)
 
