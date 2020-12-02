@@ -1,11 +1,12 @@
 import tkinter as tk
 import menu
-import newSession
+import new_session
 from tkinter import ttk
 
 
-# Should work: geeksforgeeks.org/tkinter-application-to-switch-between-different-page-frames/
+# Should work: https://www.geeksforgeeks.org/tkinter-application-to-switch-between-different-page-frames/
 class TkinterApp(tk.Tk):
+
     def __init__(self, *args, **kwargs):
         tk.Tk.__init__(self, *args, **kwargs)
 
@@ -17,18 +18,19 @@ class TkinterApp(tk.Tk):
 
         self.frames = {}
 
-        for F in (menu, newSession):
+        for F in (menu, new_session):
             frame = F(container, self)
 
-            self.frame[F] = frame
+            self.frames[F] = frame
 
-            frame.grid(row=0, column=0, sticky='nsew')
+            frame.grid(row=0, column=0, sticky="nsew")
 
         self.show_frame(menu)
 
     def show_frame(self, cont):
         frame = self.frames[cont]
-        frame.tkrise()
+        frame.tkraise()
+
 
 app = TkinterApp()
 app.mainloop()
