@@ -4,6 +4,15 @@ using UnityEngine;
 
 public class Switcher : MonoBehaviour
 {
+    /*TEMP SOLUTION!!!
+     * Store:
+     * - UI elements refrences
+     * - stack of visited elements
+     * 
+     * Methods:
+     * - back() - backing up in stack of visited elements
+     * - goto(GameObject obj) - sets inactive this object and sets active obj
+     */
     GameObject me;
 
     private void Start()
@@ -16,8 +25,5 @@ public class Switcher : MonoBehaviour
         me.SetActive(false);
         whichOne.SetActive(true);
     }
-
-
-
 
 }
