@@ -39,68 +39,79 @@ public class Map
     public void Load(string mapName)
     {
         MapData data = SaveSystem.LoadMap(mapName);
-        Debug.Log(data.mapName);
 
         this.mapName = data.mapName;
         this.mapImage = data.mapImage;
 
         //Players
         List<Character> players = new List<Character>();
-        foreach(string characterName in data.playersName)
-        {
-            Character temp = new Character();
-            temp.Load(characterName);
-            players.Add(temp);
+        if (data.playersName != null){
+            foreach(string characterName in data.playersName)
+            {
+                Character temp = new Character();
+                temp.Load(characterName);
+                players.Add(temp);
+            }
         }
         this.players = players;
 
         List<Vector2> playersPositions = new List<Vector2>();
-        for (int i = 0; i < data.playersPositionX.Count; i++)
-        {
-            Vector2 pos = Vector2.zero;
-            pos.x = data.playersPositionX[i];
-            pos.y = data.playersPositionY[i];
-            playersPositions.Add(pos);
+        if (data.playersPositionX != null){
+            for (int i = 0; i < data.playersPositionX.Count; i++)
+            {
+                Vector2 pos = Vector2.zero;
+                pos.x = data.playersPositionX[i];
+                pos.y = data.playersPositionY[i];
+                playersPositions.Add(pos);
+            }
         }
         this.playersPosition = playersPositions;
 
         //NPCs
         List<Character> npc = new List<Character>();
-        foreach (string npcName in data.npcName)
-        {
-            Character temp = new Character();
-            temp.Load(npcName);
-            npc.Add(temp);
+        if (data.npcName != null){
+            foreach (string npcName in data.npcName)
+            {
+                Character temp = new Character();
+                temp.Load(npcName);
+                npc.Add(temp);
+            }
         }
         this.npc = npc;
 
         List<Vector2> npcPositions = new List<Vector2>();
-        for (int i = 0; i < data.npcPositionX.Count; i++)
-        {
-            Vector2 pos = Vector2.zero;
-            pos.x = data.npcPositionX[i];
-            pos.y = data.npcPositionY[i];
-            npcPositions.Add(pos);
+        if (data.npcPositionX != null){
+            for (int i = 0; i < data.npcPositionX.Count; i++)
+            {
+                Vector2 pos = Vector2.zero;
+                pos.x = data.npcPositionX[i];
+                pos.y = data.npcPositionY[i];
+                npcPositions.Add(pos);
+            }
         }
         this.npcPosition = npcPositions;
 
         //Enemies
         List<Character> enemies = new List<Character>();
-        foreach (string enemiesName in data.enemiesName)
-        {
-            Character temp = new Character();
-            temp.Load(enemiesName);
-            npc.Add(temp);
+        if (data.enemiesName != null){
+            foreach (string enemiesName in data.enemiesName)
+            {
+                Character temp = new Character();
+                temp.Load(enemiesName);
+                npc.Add(temp);
+            }
         }
         this.enemies = enemies;
 
         List<Vector2> enenmiesPositions = new List<Vector2>();
-        for (int i = 0; i < data.enemiesPositionX.Count; i++)
-        {
-            Vector2 pos = Vector2.zero;
-            pos.x = data.enemiesPositionX[i];
-            pos.y = data.enemiesPositionY[i];
-            enenmiesPositions.Add(pos);
+        if (data.enemiesPositionX != null){
+            for (int i = 0; i < data.enemiesPositionX.Count; i++)
+            {
+                Vector2 pos = Vector2.zero;
+                pos.x = data.enemiesPositionX[i];
+                pos.y = data.enemiesPositionY[i];
+                enenmiesPositions.Add(pos);
+            }
         }
         this.enemiesPosition = enenmiesPositions;
 

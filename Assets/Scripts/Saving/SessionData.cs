@@ -11,10 +11,12 @@ public class SessionData
     public SessionData(Session session)
     {
         sessionName = session.sessionName;
-
+        
+        List<string> names = new List<string>();
         foreach(Map map in session.maps)
-        {
-            mapsNames.Add(map.mapName);
+        {   
+            names.Add(map.mapName);
         }
+        mapsNames = names;
     }
 }

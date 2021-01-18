@@ -6,8 +6,8 @@ using UnityEngine;
 
 public class SaveSystem : MonoBehaviour
 {
-    //NOTE: We might think about making monsters and NPCs as well as characters form program
-    //      or just switch this to javascript (becouse dnd allows to make custome made things)
+    //NOTE: We might think about making monsters and NPCs as well as characters from program
+    //      or just switch this to javascript (because dnd allows to make custom made things)
 
     static string pathToCharacters = Application.persistentDataPath + "/Characters/";
     static string pathToMaps = Application.persistentDataPath + "/Maps/";
@@ -54,9 +54,7 @@ public class SaveSystem : MonoBehaviour
         BinaryFormatter formatter = new BinaryFormatter();
         FileStream stream = new FileStream(path, FileMode.Open);
 
-        CharacterData data = new CharacterData();
-        //TODO: chcek does the character exists
-        data = formatter.Deserialize(stream) as CharacterData;
+        CharacterData data = formatter.Deserialize(stream) as CharacterData;
 
         stream.Close();
         return data;
@@ -115,7 +113,7 @@ public class SaveSystem : MonoBehaviour
         return data;
     }
 
-    //-------------------------------------------------------------------------Session
+    //--------------------------Session-----------------------------------------------
     public static void SaveSession(Session session)
     {
         CheckDirectory(pathToSessions);
@@ -125,7 +123,7 @@ public class SaveSystem : MonoBehaviour
         //Setup formatter
         BinaryFormatter formatter = new BinaryFormatter();
         //Prepare path
-        string path = pathToMaps + data.sessionName + ".save";
+        string path = pathToSessions + data.sessionName + ".save";
         //open stream
         FileStream stream = new FileStream(path, FileMode.Create);
 
@@ -137,9 +135,9 @@ public class SaveSystem : MonoBehaviour
 
     public static SessionData LoadSession(string sesstionName)
     {
-        CheckDirectory(pathToMaps);
+        CheckDirectory(pathToSessions);
 
-        string path = pathToMaps + sesstionName + ".save";
+        string path = pathToSessions + sesstionName + ".save";
         BinaryFormatter formatter = new BinaryFormatter();
         FileStream stream = new FileStream(path, FileMode.Open);
 

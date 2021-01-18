@@ -12,13 +12,7 @@ public class CreateNewSession : MonoBehaviour
 
     public void SaveIt()
     {
-        Session ses = GatherData();
-        Debug.Log(ses.sessionName);
-        foreach(Map map in ses.maps)
-        {
-            Debug.Log(map.mapName);
-        }
-        //SaveSystem.SaveSession(GatherData());
+        SaveSystem.SaveSession(GatherData());
     }
 
     Session GatherData()
