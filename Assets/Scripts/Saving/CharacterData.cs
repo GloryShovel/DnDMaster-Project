@@ -17,8 +17,8 @@ public class CharacterData
     public string characterName;
     //Atributes
     public int strengh, dextirity, constitution, inteligence, wisdom, charisma;
-    //Engine stuff
-    public float positionX, positionY;
+
+    public CharacterData(){}
 
     public CharacterData(Character character)
     {
@@ -29,7 +29,5 @@ public class CharacterData
         this.inteligence = character.inteligence;
         this.wisdom = character.wisdom;
         this.charisma = character.charisma;
-        this.positionX = character.position.x;
-        this.positionY = character.position.y;
     }
 }

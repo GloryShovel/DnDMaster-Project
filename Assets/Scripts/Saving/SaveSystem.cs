@@ -14,6 +14,7 @@ public class SaveSystem : MonoBehaviour
     static string pathToMapsImages = Application.persistentDataPath + "/MapsImages/";
     static string pathToSessions = Application.persistentDataPath + "/Sessions/";
 
+    //TODO: Redo this to make file checking at start of program
     public static void CheckDirectory(string path)
     {
         if (!Directory.Exists(path))
@@ -47,11 +48,15 @@ public class SaveSystem : MonoBehaviour
 
     public static CharacterData LoadCharacter(string characterName)
     {
+        CheckDirectory(pathToCharacters);
+
         string path = pathToCharacters + characterName + ".save";
         BinaryFormatter formatter = new BinaryFormatter();
         FileStream stream = new FileStream(path, FileMode.Open);
 
-        CharacterData data = formatter.Deserialize(stream) as CharacterData;
+        CharacterData data = new CharacterData();
+        //TODO: chcek does the character exists
+        data = formatter.Deserialize(stream) as CharacterData;
 
         stream.Close();
         return data;
@@ -62,6 +67,7 @@ public class SaveSystem : MonoBehaviour
 
     public static Sprite LoadMapImage(string imageName)
     {
+        CheckDirectory(pathToMapsImages);
 
         string path = pathToMapsImages + imageName;
         byte[] fileData = File.ReadAllBytes(path);
@@ -95,13 +101,49 @@ public class SaveSystem : MonoBehaviour
         stream.Close();
     }
 
-    public static CharacterData LoadMap(string mapName)
+    public static MapData LoadMap(string mapName)
     {
+        CheckDirectory(pathToMaps);
+
         string path = pathToMaps + mapName + ".save";
         BinaryFormatter formatter = new BinaryFormatter();
         FileStream stream = new FileStream(path, FileMode.Open);
 
-        CharacterData data = formatter.Deserialize(stream) as CharacterData;
+        MapData data = formatter.Deserialize(stream) as MapData;
+
+        stream.Close();
+        return data;
+    }
+
+    //-------------------------------------------------------------------------Session
+    public static void SaveSession(Session session)
+    {
+        CheckDirectory(pathToSessions);
+
+        SessionData data = new SessionData(session);
+
+        //Setup formatter
+        BinaryFormatter formatter = new BinaryFormatter();
+        //Prepare path
+        string path = pathToMaps + data.sessionName + ".save";
+        //open stream
+        FileStream stream = new FileStream(path, FileMode.Create);
+
+        //Saving character
+        formatter.Serialize(stream, data);
+
+        stream.Close();
+    }
+
+    public static SessionData LoadSession(string sesstionName)
+    {
+        CheckDirectory(pathToMaps);
+
+        string path = pathToMaps + sesstionName + ".save";
+        BinaryFormatter formatter = new BinaryFormatter();
+        FileStream stream = new FileStream(path, FileMode.Open);
+
+        SessionData data = formatter.Deserialize(stream) as SessionData;
 
         stream.Close();
         return data;
