@@ -1,0 +1,1122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-01-19T13:50:13.856+01:00
+  initializedAtString: 2021-01-19T12:20:18.378+01:00
+  entries:
+  - path: Assets\Images\button.png
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Images\button.png
+    projectPath: Assets\Images\button.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\button.png.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Images\button.png.meta
+    projectPath: Assets\Images\button.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\button2.png
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Images\button2.png
+    projectPath: Assets\Images\button2.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Images\button2.png.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Images\button2.png.meta
+    projectPath: Assets\Images\button2.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Maps.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Maps.meta
+    projectPath: Assets\Maps.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\button.png
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Prefabs\button.png
+    projectPath: Assets\Prefabs\button.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\button.png.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Prefabs\button.png.meta
+    projectPath: Assets\Prefabs\button.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\Button.prefab
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Prefabs\Button.prefab
+    projectPath: Assets\Prefabs\Button.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\ScreamWhenYoureReadyToDieRegular-6AjD.ttf
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Prefabs\ScreamWhenYoureReadyToDieRegular-6AjD.ttf
+    projectPath: Assets\Prefabs\ScreamWhenYoureReadyToDieRegular-6AjD.ttf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\ScreamWhenYoureReadyToDieRegular-6AjD.ttf.meta
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Assets\Prefabs\ScreamWhenYoureReadyToDieRegular-6AjD.ttf.meta
+    projectPath: Assets\Prefabs\ScreamWhenYoureReadyToDieRegular-6AjD.ttf.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\03\03baebd99f983be1ed5ddc393c893af0
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\03\03baebd99f983be1ed5ddc393c893af0
+    projectPath: Library\Artifacts\03\03baebd99f983be1ed5ddc393c893af0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\07\07e07b9d5163106f4561429c8bb7199f
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\07\07e07b9d5163106f4561429c8bb7199f
+    projectPath: Library\Artifacts\07\07e07b9d5163106f4561429c8bb7199f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0c\0cb8f9ef330a7fdfd9797ce23e675b9f
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\0c\0cb8f9ef330a7fdfd9797ce23e675b9f
+    projectPath: Library\Artifacts\0c\0cb8f9ef330a7fdfd9797ce23e675b9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0d9888e202205dae1c59e339ec39420d
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\0d\0d9888e202205dae1c59e339ec39420d
+    projectPath: Library\Artifacts\0d\0d9888e202205dae1c59e339ec39420d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\13c214c83fb02fee34a2489e7d3043cd
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\13\13c214c83fb02fee34a2489e7d3043cd
+    projectPath: Library\Artifacts\13\13c214c83fb02fee34a2489e7d3043cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\1404163d5301889d814eb77330ed79a6
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\14\1404163d5301889d814eb77330ed79a6
+    projectPath: Library\Artifacts\14\1404163d5301889d814eb77330ed79a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1ce2272237b49ae13a9f155cac16dc36
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\1c\1ce2272237b49ae13a9f155cac16dc36
+    projectPath: Library\Artifacts\1c\1ce2272237b49ae13a9f155cac16dc36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1e\1ead034b57f33104ffa4a877bee21adc
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\1e\1ead034b57f33104ffa4a877bee21adc
+    projectPath: Library\Artifacts\1e\1ead034b57f33104ffa4a877bee21adc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1f9ec368a29c47485f79746df3966f8b
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\1f\1f9ec368a29c47485f79746df3966f8b
+    projectPath: Library\Artifacts\1f\1f9ec368a29c47485f79746df3966f8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\260f4a07f6650e9c8fd4fb6a38e142ca
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\26\260f4a07f6650e9c8fd4fb6a38e142ca
+    projectPath: Library\Artifacts\26\260f4a07f6650e9c8fd4fb6a38e142ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\28\2842f145a88ef141546a8be5e6794b48
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\28\2842f145a88ef141546a8be5e6794b48
+    projectPath: Library\Artifacts\28\2842f145a88ef141546a8be5e6794b48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2c\2ca1a5c08babd781759e1105a970f3d1
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\2c\2ca1a5c08babd781759e1105a970f3d1
+    projectPath: Library\Artifacts\2c\2ca1a5c08babd781759e1105a970f3d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2fd14fc756b26d93b227ed6f853aa755
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\2f\2fd14fc756b26d93b227ed6f853aa755
+    projectPath: Library\Artifacts\2f\2fd14fc756b26d93b227ed6f853aa755
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+    projectPath: Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\386d8f33200eba71af687d465456fa97
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\38\386d8f33200eba71af687d465456fa97
+    projectPath: Library\Artifacts\38\386d8f33200eba71af687d465456fa97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\391ab408369575538ae1561ba483fd98
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\39\391ab408369575538ae1561ba483fd98
+    projectPath: Library\Artifacts\39\391ab408369575538ae1561ba483fd98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3cff20494cfb4a10ef6d3e10bb21c3af
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\3c\3cff20494cfb4a10ef6d3e10bb21c3af
+    projectPath: Library\Artifacts\3c\3cff20494cfb4a10ef6d3e10bb21c3af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3d72b704a2ef02c5e6c3ab487ea71bee
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\3d\3d72b704a2ef02c5e6c3ab487ea71bee
+    projectPath: Library\Artifacts\3d\3d72b704a2ef02c5e6c3ab487ea71bee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\425137799f239fd396e4164548d5ef67
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\42\425137799f239fd396e4164548d5ef67
+    projectPath: Library\Artifacts\42\425137799f239fd396e4164548d5ef67
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\46\467ee123f350348d0eb978a6d88674bc
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\46\467ee123f350348d0eb978a6d88674bc
+    projectPath: Library\Artifacts\46\467ee123f350348d0eb978a6d88674bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\49453175c33d4d8f49fe1e4373a92b7f
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\49\49453175c33d4d8f49fe1e4373a92b7f
+    projectPath: Library\Artifacts\49\49453175c33d4d8f49fe1e4373a92b7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4b2d7ee452f90b4e8801a1c9b6e78208
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\4b\4b2d7ee452f90b4e8801a1c9b6e78208
+    projectPath: Library\Artifacts\4b\4b2d7ee452f90b4e8801a1c9b6e78208
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4be5a941d916fcd5a7b84a06f9ae05bf
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\4b\4be5a941d916fcd5a7b84a06f9ae05bf
+    projectPath: Library\Artifacts\4b\4be5a941d916fcd5a7b84a06f9ae05bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4ce61f21e1f4183be3ddf1eb114d5ffa
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\4c\4ce61f21e1f4183be3ddf1eb114d5ffa
+    projectPath: Library\Artifacts\4c\4ce61f21e1f4183be3ddf1eb114d5ffa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\50\50c0624a5aca0dc7770e2bd3893bbd16
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\50\50c0624a5aca0dc7770e2bd3893bbd16
+    projectPath: Library\Artifacts\50\50c0624a5aca0dc7770e2bd3893bbd16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\540ecac5bce87250563646062543133b
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\54\540ecac5bce87250563646062543133b
+    projectPath: Library\Artifacts\54\540ecac5bce87250563646062543133b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\55c735c0769133f10a0a742b1b36d39b
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\55\55c735c0769133f10a0a742b1b36d39b
+    projectPath: Library\Artifacts\55\55c735c0769133f10a0a742b1b36d39b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\58\588ae441ff682cc6cae6ed05382c093c
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\58\588ae441ff682cc6cae6ed05382c093c
+    projectPath: Library\Artifacts\58\588ae441ff682cc6cae6ed05382c093c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\59\5912c82bb07b419bee3e9aaafe2bf0f8
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\59\5912c82bb07b419bee3e9aaafe2bf0f8
+    projectPath: Library\Artifacts\59\5912c82bb07b419bee3e9aaafe2bf0f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5c443fc7bf523538ec429fbd922cebee
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\5c\5c443fc7bf523538ec429fbd922cebee
+    projectPath: Library\Artifacts\5c\5c443fc7bf523538ec429fbd922cebee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\63\63539d2dcadaf4096670521f65e84131
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\63\63539d2dcadaf4096670521f65e84131
+    projectPath: Library\Artifacts\63\63539d2dcadaf4096670521f65e84131
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\693bcfd026af72baede2adbc8e7fef7c
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\69\693bcfd026af72baede2adbc8e7fef7c
+    projectPath: Library\Artifacts\69\693bcfd026af72baede2adbc8e7fef7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6ac962224743b8557d16b15688dcc391
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\6a\6ac962224743b8557d16b15688dcc391
+    projectPath: Library\Artifacts\6a\6ac962224743b8557d16b15688dcc391
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6c\6cbebdee9f1d41a514fa03e99c8e733f
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\6c\6cbebdee9f1d41a514fa03e99c8e733f
+    projectPath: Library\Artifacts\6c\6cbebdee9f1d41a514fa03e99c8e733f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\71\7163f8f5775dcd7fb95dc7099411eca4
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\71\7163f8f5775dcd7fb95dc7099411eca4
+    projectPath: Library\Artifacts\71\7163f8f5775dcd7fb95dc7099411eca4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\75\759d21c2f66651e1c1caabe9e6bbd91d
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\75\759d21c2f66651e1c1caabe9e6bbd91d
+    projectPath: Library\Artifacts\75\759d21c2f66651e1c1caabe9e6bbd91d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7c\7c4124eeb6c993c6415167b1e8221a07
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\7c\7c4124eeb6c993c6415167b1e8221a07
+    projectPath: Library\Artifacts\7c\7c4124eeb6c993c6415167b1e8221a07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\86\86e8a992e58a899f6f83d93663c75f6c
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\86\86e8a992e58a899f6f83d93663c75f6c
+    projectPath: Library\Artifacts\86\86e8a992e58a899f6f83d93663c75f6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\88\888c1b09cbc462c8d1f0149acd4084c8
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\88\888c1b09cbc462c8d1f0149acd4084c8
+    projectPath: Library\Artifacts\88\888c1b09cbc462c8d1f0149acd4084c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\88\88f9d9f5ab772dd4b0d11b4cba70f3d2
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\88\88f9d9f5ab772dd4b0d11b4cba70f3d2
+    projectPath: Library\Artifacts\88\88f9d9f5ab772dd4b0d11b4cba70f3d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\90eca488c88d0a7683f146ef4f9ac874
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\90\90eca488c88d0a7683f146ef4f9ac874
+    projectPath: Library\Artifacts\90\90eca488c88d0a7683f146ef4f9ac874
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\931696fec808aee5aa26e3c8a3d024da
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\93\931696fec808aee5aa26e3c8a3d024da
+    projectPath: Library\Artifacts\93\931696fec808aee5aa26e3c8a3d024da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\97\970071095aad8c3b5555b6985183e5be
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\97\970071095aad8c3b5555b6985183e5be
+    projectPath: Library\Artifacts\97\970071095aad8c3b5555b6985183e5be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\99\99922dfccdbec4ec210b7d4ddef3ec66
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\99\99922dfccdbec4ec210b7d4ddef3ec66
+    projectPath: Library\Artifacts\99\99922dfccdbec4ec210b7d4ddef3ec66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9c1715d5442a240e014ce2d01c15ee4e
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\9c\9c1715d5442a240e014ce2d01c15ee4e
+    projectPath: Library\Artifacts\9c\9c1715d5442a240e014ce2d01c15ee4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9d\9d4788fbc3b8198153ef8d8b06519f0c
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\9d\9d4788fbc3b8198153ef8d8b06519f0c
+    projectPath: Library\Artifacts\9d\9d4788fbc3b8198153ef8d8b06519f0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9f\9fdc965021b6120940913ceb4e8c619d
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\9f\9fdc965021b6120940913ceb4e8c619d
+    projectPath: Library\Artifacts\9f\9fdc965021b6120940913ceb4e8c619d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a04c089292b0f2f569ba87cb30f84174
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\a0\a04c089292b0f2f569ba87cb30f84174
+    projectPath: Library\Artifacts\a0\a04c089292b0f2f569ba87cb30f84174
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a2\a28b1b0232bd6a4d5166a220cfd8bb27
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\a2\a28b1b0232bd6a4d5166a220cfd8bb27
+    projectPath: Library\Artifacts\a2\a28b1b0232bd6a4d5166a220cfd8bb27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a3aac15eb32e745c6a9c8ed7d11e882f
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\a3\a3aac15eb32e745c6a9c8ed7d11e882f
+    projectPath: Library\Artifacts\a3\a3aac15eb32e745c6a9c8ed7d11e882f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a3efa46c00edf779461cd91e85e1e5c1
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\a3\a3efa46c00edf779461cd91e85e1e5c1
+    projectPath: Library\Artifacts\a3\a3efa46c00edf779461cd91e85e1e5c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ad\ad138f6745c15dd677719a4e876c7a81
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\ad\ad138f6745c15dd677719a4e876c7a81
+    projectPath: Library\Artifacts\ad\ad138f6745c15dd677719a4e876c7a81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b7f7f9f2e10e0d3e4902ecb9d15845fb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\b7\b7f7f9f2e10e0d3e4902ecb9d15845fb
+    projectPath: Library\Artifacts\b7\b7f7f9f2e10e0d3e4902ecb9d15845fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\beb63250ba3cd24ee5a70d1bcf5d0ee6
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\be\beb63250ba3cd24ee5a70d1bcf5d0ee6
+    projectPath: Library\Artifacts\be\beb63250ba3cd24ee5a70d1bcf5d0ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c1\c18962a8aebb5538a19d0c3d256f7a0d
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\c1\c18962a8aebb5538a19d0c3d256f7a0d
+    projectPath: Library\Artifacts\c1\c18962a8aebb5538a19d0c3d256f7a0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c4\c41c40c0283a4aaff168a6d1242eb4bb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\c4\c41c40c0283a4aaff168a6d1242eb4bb
+    projectPath: Library\Artifacts\c4\c41c40c0283a4aaff168a6d1242eb4bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c8\c8fcc7983470f2675c5e0ec8ffcc1250
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\c8\c8fcc7983470f2675c5e0ec8ffcc1250
+    projectPath: Library\Artifacts\c8\c8fcc7983470f2675c5e0ec8ffcc1250
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cceadc97e128e2a5de7079d678b4f5d2
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\cc\cceadc97e128e2a5de7079d678b4f5d2
+    projectPath: Library\Artifacts\cc\cceadc97e128e2a5de7079d678b4f5d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d0446e79ccd8bb611e4f519d2605475e
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\d0\d0446e79ccd8bb611e4f519d2605475e
+    projectPath: Library\Artifacts\d0\d0446e79ccd8bb611e4f519d2605475e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d8\d83d62da46c68e822c34635a405305b1
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\d8\d83d62da46c68e822c34635a405305b1
+    projectPath: Library\Artifacts\d8\d83d62da46c68e822c34635a405305b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d9899052db6367a10fad3b855045cafa
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\d9\d9899052db6367a10fad3b855045cafa
+    projectPath: Library\Artifacts\d9\d9899052db6367a10fad3b855045cafa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dc\dc48145002662a4f151eb4489220c656
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\dc\dc48145002662a4f151eb4489220c656
+    projectPath: Library\Artifacts\dc\dc48145002662a4f151eb4489220c656
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e2\e2a30f8724c8fa8a9d66c77bcdb6ef76
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\e2\e2a30f8724c8fa8a9d66c77bcdb6ef76
+    projectPath: Library\Artifacts\e2\e2a30f8724c8fa8a9d66c77bcdb6ef76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e4d6ab3f8fa9bbde647ac31216d9ad34
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\e4\e4d6ab3f8fa9bbde647ac31216d9ad34
+    projectPath: Library\Artifacts\e4\e4d6ab3f8fa9bbde647ac31216d9ad34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e6\e6617d4991cdac9bba08d2c5620afe19
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\e6\e6617d4991cdac9bba08d2c5620afe19
+    projectPath: Library\Artifacts\e6\e6617d4991cdac9bba08d2c5620afe19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e8cd914a0e7903a77cb8e938d83b7808
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\e8\e8cd914a0e7903a77cb8e938d83b7808
+    projectPath: Library\Artifacts\e8\e8cd914a0e7903a77cb8e938d83b7808
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e99c177cb9691401cd05e2ac849f7545
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\e9\e99c177cb9691401cd05e2ac849f7545
+    projectPath: Library\Artifacts\e9\e99c177cb9691401cd05e2ac849f7545
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f283910792176ac981f6274a196054d6
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\f2\f283910792176ac981f6274a196054d6
+    projectPath: Library\Artifacts\f2\f283910792176ac981f6274a196054d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f6\f6e7b00e12f0a31f6eb0c0470be1d1f2
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\f6\f6e7b00e12f0a31f6eb0c0470be1d1f2
+    projectPath: Library\Artifacts\f6\f6e7b00e12f0a31f6eb0c0470be1d1f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb107bdbef328e35ea89792d73167d94
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\fb\fb107bdbef328e35ea89792d73167d94
+    projectPath: Library\Artifacts\fb\fb107bdbef328e35ea89792d73167d94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fdd087bfa276b76c3630790fdfdadfd0
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\Artifacts\fd\fdd087bfa276b76c3630790fdfdadfd0
+    projectPath: Library\Artifacts\fd\fdd087bfa276b76c3630790fdfdadfd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\4951d1-mainStage.json
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Library\StateCache\Hierarchy\4951d1-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\4951d1-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-044d738fbc996b947a1d9fff5e90c52c
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-044d738fbc996b947a1d9fff5e90c52c
+    projectPath: Temp\UnityTempFile-044d738fbc996b947a1d9fff5e90c52c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-13a5be81f353f134eb86c9561f27b875
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-13a5be81f353f134eb86c9561f27b875
+    projectPath: Temp\UnityTempFile-13a5be81f353f134eb86c9561f27b875
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-30da8cc64b416084ca1090c94da14827
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-30da8cc64b416084ca1090c94da14827
+    projectPath: Temp\UnityTempFile-30da8cc64b416084ca1090c94da14827
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-35316283822285c46816ad0e4f6918cd
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-35316283822285c46816ad0e4f6918cd
+    projectPath: Temp\UnityTempFile-35316283822285c46816ad0e4f6918cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5c2057d9278c26a47b2e4fb9f9451b48
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-5c2057d9278c26a47b2e4fb9f9451b48
+    projectPath: Temp\UnityTempFile-5c2057d9278c26a47b2e4fb9f9451b48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-746992869a7b6dc419bbe3ba144fdaa2
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-746992869a7b6dc419bbe3ba144fdaa2
+    projectPath: Temp\UnityTempFile-746992869a7b6dc419bbe3ba144fdaa2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-94aadc9eb7702df429eab37cd803d095
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-94aadc9eb7702df429eab37cd803d095
+    projectPath: Temp\UnityTempFile-94aadc9eb7702df429eab37cd803d095
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9b085a996b9cc0448bdba1a7c3756640
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-9b085a996b9cc0448bdba1a7c3756640
+    projectPath: Temp\UnityTempFile-9b085a996b9cc0448bdba1a7c3756640
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9b9c9b0de299c494f8f19fb9daecd723
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-9b9c9b0de299c494f8f19fb9daecd723
+    projectPath: Temp\UnityTempFile-9b9c9b0de299c494f8f19fb9daecd723
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bf09a1a45fbf8754ca6e4ca430f4b73e
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-bf09a1a45fbf8754ca6e4ca430f4b73e
+    projectPath: Temp\UnityTempFile-bf09a1a45fbf8754ca6e4ca430f4b73e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d8c17d3d53fe9db468fe9d48ed2aad07
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-d8c17d3d53fe9db468fe9d48ed2aad07
+    projectPath: Temp\UnityTempFile-d8c17d3d53fe9db468fe9d48ed2aad07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dcdcbf702c5af334599ba3292b1cf06c
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-dcdcbf702c5af334599ba3292b1cf06c
+    projectPath: Temp\UnityTempFile-dcdcbf702c5af334599ba3292b1cf06c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e06ecdeda4d21a34a9bdba420a0ecd3c
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-e06ecdeda4d21a34a9bdba420a0ecd3c
+    projectPath: Temp\UnityTempFile-e06ecdeda4d21a34a9bdba420a0ecd3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ec7ba899f664f244d91953b35789ba10
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-ec7ba899f664f244d91953b35789ba10
+    projectPath: Temp\UnityTempFile-ec7ba899f664f244d91953b35789ba10
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-eec78d7d5e74e2142bf1f956cbdc4c61
+    fullPath: C:\Users\Kamil\Desktop\Projects\Unity\DnDMaster-Project\Temp\UnityTempFile-eec78d7d5e74e2142bf1f956cbdc4c61
+    projectPath: Temp\UnityTempFile-eec78d7d5e74e2142bf1f956cbdc4c61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
